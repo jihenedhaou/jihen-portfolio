@@ -11,8 +11,8 @@ const projectsData = [
   description: "Réalisation d'un site web e-commerce (avec le système de gestion de contenu libre Joomla",
   image: "/images/projects/ecommerce.png",
   tag: ["All", "Web"],
-  gitUrl: "/",
-  previewUrl: "/",
+  gitUrl: "https://afriquemagazine.com/",
+  previewUrl: "https://afriquemagazine.com/",
 },
 
 {
